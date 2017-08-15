@@ -1,4 +1,4 @@
-// Shashwat Sparsh
+// by Shashwat Sparsh
 public class Escape 
 {
 
@@ -11,9 +11,8 @@ public class Escape
 		System.out.println("");
 		System.out.println("   \\/");
 		System.out.println("  \\\\//");
-		System.out.println("  \\\\//");
-		System.out.println("  //\\\\");
-		System.out.println("  //\\\\");
+		System.out.println(" \\\\\\///");
+		System.out.println(" ///\\\\\\");
 		System.out.println("  //\\\\");
 		System.out.println("   /\\");
 		System.out.println("");

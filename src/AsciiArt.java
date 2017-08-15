@@ -1,4 +1,4 @@
-// Shashwat Sparsh
+// by Shashwat Sparsh
 public class AsciiArt 
 {
 
